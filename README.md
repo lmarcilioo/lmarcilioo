@@ -4,4 +4,4 @@ __<h2> Olá, sou Lucas Marcilio!__
 
 
 <h2> Sobre mim:
-<h4> Gosto de ler, escrever e usar a criatividade para a criação e inovação! 
+<h4> Gosto de ler, escrever e usar a criatividade para a criação e inovação!! 
